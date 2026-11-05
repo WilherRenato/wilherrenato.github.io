@@ -1,0 +1,8 @@
+GUIA DE PERSONALIZAÇÃO
+
+Substituir: marca, história, produtos, canais de contato e informações institucionais.
+Configurar a integração da área do cliente em assets/client-area.js, após validateClientLogin().
+Adicionar documentação real e revisar o conteúdo com responsáveis da empresa.
+O formulário é demonstrativo: um envio real exige endpoint e tratamento apropriado.
+Remover noindex somente após a revisão de conteúdo e configuração de domínio.
+

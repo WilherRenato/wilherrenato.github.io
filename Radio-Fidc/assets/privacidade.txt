@@ -1,0 +1,5 @@
+NOTA DEMONSTRATIVA
+
+O formulário não envia dados nem os grava por meio do código do projeto.
+Não existem analytics ou cookies implementados.
+A hospedagem pode registrar acessos. Veja privacidade.html para detalhes.
